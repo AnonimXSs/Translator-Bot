@@ -160,5 +160,5 @@ async def translate(bot, update):
         reply_markup=LANGUAGE_BUTTONS,
         quote=True
     )
-    
-SLBotsOfficial.run()
+     
+SLBotsOfficial . koşmak ()
